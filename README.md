@@ -9,6 +9,8 @@ I care about **understanding complex systems and explaining them clearly** — a
 - **[Virid](https://github.com/Ailrid/virid)** — A message-driven framework for Electron applications, inspired by NestJS (DI / modularity) and Bevy (ECS / scheduling). TypeScript + Rust. Includes a CCS architecture, double-buffered tick scheduling, location-transparent IPC, and zero-intrusion undo/redo. Validated by Vrieo, my own application built on it.
 - **[Bevy Engine Guide](https://ailrid.github.io/Bevy-Engine-Guide/)** — A 100k+ character deep dive into Bevy's ECS internals, scheduling, and memory model (in Chinese).
 - **[Wedjat](https://github.com/Ailrid/wedjat)** — A visual localization pipeline for GPS-denied UAVs. Rust + Python; metric learning, heterogeneous inference (ONNX / OpenVINO / RKNN), multi-trajectory competitive localization, deployed on RK3588.
+- **[Beyond The Code](https://github.com/Ailrid/Beyond-The-Code)** — I have compiled into a book some of my personal reflections and discussions on the underlying technology, paradigm evolution, philosophy and humanities (nonsense) that I have written during my leisure time..
+
 
 **Research & writing**
 
